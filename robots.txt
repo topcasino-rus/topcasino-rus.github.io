@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luchshiy-online-casino.github.io/sitemap.xml
+Sitemap: https://topcasino-rus.github.io/sitemap.xml
